@@ -1,0 +1,9 @@
+.places__place {
+  margin-bottom: 80px;
+}
+
+@media screen and (max-width: 470px) {
+  .places__place {
+    margin-bottom: 50px;
+  }
+}

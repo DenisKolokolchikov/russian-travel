@@ -1,0 +1,19 @@
+.cover {
+  display: flex;
+  max-width: 1184px;
+  margin: 92px auto 92px;
+}
+
+@media screen and (max-width: 984px) {
+  .cover {
+    margin-bottom: 64px;
+    margin-top: 90px;
+  }
+}
+
+@media screen and (max-width: 470px) {
+  .cover {
+    margin-bottom: 64px;
+    margin-top: 66px;
+  }
+}
