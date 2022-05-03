@@ -2,8 +2,20 @@
   max-width: 460px;
 }
 
-@media screen and (max-width: 984px) {
+@media screen and (max-width: 1140px) {
+  .place__image {
+    max-width: 440px;
+  }
+}
+
+@media screen and (max-width: 978px) {
   .place__image {
     max-width: 340px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .place__image {
+    max-width: 320px;
   }
 }
