@@ -6,13 +6,13 @@
   margin-right: 0;
 }
 
-@media screen and (max-width: 470px) {
+@media screen and (max-width: 675px) {
   .footer__list-item {
     margin-bottom: 32px;
   }
 }
 
-@media screen and (max-width: 470px) {
+@media screen and (max-width: 675px) {
   .footer__list-item:last-child {
     margin-bottom: 0;
   }
