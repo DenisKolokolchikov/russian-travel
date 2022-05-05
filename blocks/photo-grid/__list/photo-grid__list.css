@@ -10,6 +10,6 @@
 
 @media screen and (max-width: 675px) {
   .photo-grid__list {
-    grid-gap: 12px;
+    gap: 12px;
   }
 }
